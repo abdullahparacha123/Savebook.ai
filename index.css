@@ -34,12 +34,297 @@ body{
     margin: 10px;
 }
 .drop{
+    border-color:rgb(242, 242, 245) ;
+    /* border: 1px solid rgb(160, 147, 147); */
     margin-top: 30px;
-    background-color: rgb(226, 225, 225);
+    background-color: rgb(242, 242, 245);
     border-radius: 50px;
     margin-left: 190px;
     font-size: 120%;
     height: 30px;
     width: 150px;
 }
+.div2{
+    background-color:  #efedf0;
+    display: flex;
+    width: 300px;
+    font-size: medium;
+    justify-content: space-around;
+    margin-top:80px;
+    border-radius: 25px;
+    margin-left: 540PX;
+    color: #3a61f0;
+}
+h1{
+    font-size: 400%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 420PX;
+    margin-top: 50px;
 
+}
+.img2{
+   display: flex;
+   position: relative;
+   float: right;
+   margin-right: 430PX;
+   margin-top: 13px;
+}
+.h2{
+    font-size: 400%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -50px;
+    margin-left: 350px;
+}
+.p2{
+    text-align: center;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: -25px;
+    margin-right: 50px;
+}
+.button{
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    font-size: medium;
+    background-color: #3a61f0;
+    color: white;
+    font-weight: bolder;
+    margin-left: 500px;
+    border-color: #3a61f0;
+}
+.button2{
+    width: 140px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    font-size: medium;
+    background-color: white ;
+    color: gray;
+    font-weight: bolder;
+    border-color:white ;
+}
+.img3{
+    margin-top: 50px;
+    margin-left: 5px;
+}
+.h3{
+    margin-left: 80px;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 110px;
+}
+.para1{
+    margin-left: 80px;
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -15px;
+    color: #646975;
+}
+.div3{
+    display: flex;
+}
+.img4{
+    margin-top: 110px;
+    margin-left: 150px;
+    border-radius: 20px;
+}
+.h4{
+    margin-left: 80px;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 110px;
+}
+.para2{
+    margin-left: 80px;
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -15px;
+    color: #646975;
+}
+.div4{
+    display: flex;
+}
+.img5{
+    margin-top: 110px;
+    margin-left: 200px;
+    border-radius: 20px;
+}
+.h5{
+    margin-left: 80px;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 110px;
+}
+.para3{
+    margin-left: 80px;
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -15px;
+    color: #646975;
+}
+.div5{
+    display: flex;
+}
+.img6{
+    margin-top: 110px;
+    margin-left: 200px;
+    border-radius: 20px;
+}
+.div6{
+    margin-top: 150px;
+    text-align: center;
+}
+.span2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para4{
+    font-size: 18px;
+    color: #646975;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button3{
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    font-size: medium;
+    background-color: #3a61f0;
+    color: white;
+    font-weight: bolder;
+    margin-left: 580px;
+    border-color: #3a61f0;
+    margin-top: 30px;
+}
+.div7{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    margin-top: 100px;
+    color: #3a61f0;
+}
+.img7{
+    margin-left: 160px;
+    border-radius: 20px;
+    margin-top: -40px;
+}
+.card {
+    margin-top: 100px;
+    margin-left: 160px;
+    width: 390px;
+    height: 20px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+    }
+    .card2 {
+        margin-top: 100px;
+        margin-left: 160px;
+        width: 390px;
+        height: 20px;
+        padding: 20px;
+        background-color: #f8f8f8;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        overflow: hidden;
+        margin-top: 12px;
+        }
+        .card3{
+            margin-top: 100px;
+        margin-left: 160px;
+        width: 390px;
+        height: 20px;
+        padding: 20px;
+        background-color: #f8f8f8;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        overflow: hidden;
+        margin-top: 12px;
+        }
+        .card3:hover{
+            transform: scale(1.05);
+        }
+.card:hover {
+    transform: scale(1.05);
+    border-color: #3a61f0;
+    height: 300px;
+}
+.card2:hover {
+    transform: scale(1.05);
+    border-color: #3a61f0;
+    height: 300px;
+}
+.box {
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+.total-amount {
+    color: #717682;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.upfront-payment {
+    color: #717682;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para5{
+    margin-top: -8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para6{
+    margin-top: -10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #717682;
+}
+.wow{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box1{
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    background-color: #ddd;
+
+}
+.para7{
+    display: inline;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #717682;
+}
+.box2{
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    width: 150px;
+    padding-left: 20px;
+    margin-left: 10px;
+}
+.div8{
+    display: flex;
+    
+}
