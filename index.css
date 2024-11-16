@@ -326,5 +326,120 @@ h1{
 }
 .div8{
     display: flex;
-    
+}
+.div9{
+    display: flex;
+}
+.div10{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.para8{
+    font-size: 50px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para9{
+    font-size: 20px;
+    color: #717682;
+}
+.abc{
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    font-size: medium;
+    background-color: #3a61f0;
+    color: white;
+    font-weight: bolder;
+    margin-top:10px;
+    border-color: #3a61f0;
+}
+.h6{
+    display: flex;
+    width:400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:100;
+    font-size:40px;
+    margin-left:150px;
+    margin-top:200px;
+}
+.p3{
+   width:370px;
+   margin-left:150px;
+   font-size:18px;
+   color: rgba(82, 88, 102, 0.9);
+}
+
+.bca{
+    margin-left: 150px;
+}
+
+.img8{
+    margin-left:600px;
+    margin-top: -260px;
+}
+.div11{
+    width: 100%;
+    height: 500px;
+   background-color: black;
+   margin-top:300px;
+}
+.img9{
+    /* display: flex; */
+    margin-left:250px;
+    padding-top:100PX;
+}
+.h7{
+    color:white;
+    font-size: 30px;
+    font-weight: 100;
+    margin-left:600px;
+    margin-top:-240px;
+}
+.p4{
+    margin-left:600px;
+    color: rgba(255, 255, 255, 0.753);
+    width:300px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+.b1{
+    margin-left: 600px;
+}
+.img10{
+    margin-left:200px;
+    margin-top: 100px;
+}
+.P5{
+    margin-left: 200PX;
+    color: #717682;
+}
+.P6{
+    margin-left: 200px;
+}
+.p7{
+    margin-top: -10px;
+}
+.p8{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:800px;
+    margin-top: -170px;
+}
+.p9{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 800px;
+}
+.p10{
+    margin-left: 1000px;
+    margin-top:-137px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p11{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1000PX;
+}
+.div12{
+    height: 300px;
 }
